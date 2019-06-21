@@ -1,8 +1,5 @@
----
-title: node+express框架中连接使用mysql经验总结
-date: 2018-11-03 11:18:55
-tags: node
----
+## node+express框架中连接使用mysql经验总结
+
 最近在学习node.js，做了一个练手项目，使用node.js+express框架，配合mysql数据库和前端vue框架开发一个多人文档编辑系统。
 
 [node.js环境下express+mysql的服务端项目示例](https://github.com/lihao336991/node-express-mysql)
