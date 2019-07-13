@@ -8,7 +8,7 @@
 [前端面试题总结](https://github.com/lihao336991/blog/blob/master/_posts/%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
-## 算法和数据结构
+<!-- ## 算法和数据结构 -->
 
 ## javascript篇
 
