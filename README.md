@@ -5,7 +5,7 @@
 掘金地址：[_南风的个人主页](https://juejin.im/user/5ad0a12d5188255c620f7fc9)
 
 ## 面试题
-[前端面试一百题](https://github.com/lihao336991/blog/blob/master/_posts/%E9%9D%A2%E8%AF%95%E9%A2%98.md)
+[前端面试题总结](https://github.com/lihao336991/blog/blob/master/_posts/%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 
 ## 算法和数据结构
