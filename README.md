@@ -26,7 +26,7 @@
 
 ## websocket篇
 
-[微信小程序websocket聊天室](https://github.com/lihao336991/blog/blob/master/_posts/2019-2-11.md)
+[微信小程序websocket聊天室](https://github.com/lihao336991/wx-websocket)
 
 ## css篇
 
