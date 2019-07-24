@@ -1,10 +1,3 @@
-## 关于快速排序
-
-快速排序是对冒泡排序的一种改进。其基本思想是：通过一趟排序将要排序的数据分割成独立的两部分，其中一部分的所有数据都比另外一部分的所有数据小，然后再按照此方法对两部分数据分别进行上述操作，递归至整个数据变成有序序列为止。
-
-## 代码
-
-```
 function quickSort (arr) {
     if (!arr.length) {
         return arr
@@ -20,4 +13,4 @@ function quickSort (arr) {
 let arrSort = [2,3,6,4,6,43,23,43,45,76,17,90,12];
 let arr1 = quickSort(arrSort);
 console.log(arr1);
-```
+  
